@@ -1,0 +1,12 @@
+c:\.net\Gramsahay\obj\Debug\Gramsahay.csproj.AssemblyReference.cache
+c:\.net\Gramsahay\obj\Debug\Gramsahay.csproj.CoreCompileInputs.cache
+c:\.net\Gramsahay\bin\Gramsahay.dll
+c:\.net\Gramsahay\bin\Gramsahay.pdb
+c:\.net\Gramsahay\obj\Debug\Gramsahay.dll
+c:\.net\Gramsahay\obj\Debug\Gramsahay.pdb
+D:\practicalof.net\finalproject\Gramsahay\bin\Gramsahay.dll
+D:\practicalof.net\finalproject\Gramsahay\bin\Gramsahay.pdb
+D:\practicalof.net\finalproject\Gramsahay\obj\Debug\Gramsahay.csproj.AssemblyReference.cache
+D:\practicalof.net\finalproject\Gramsahay\obj\Debug\Gramsahay.csproj.CoreCompileInputs.cache
+D:\practicalof.net\finalproject\Gramsahay\obj\Debug\Gramsahay.dll
+D:\practicalof.net\finalproject\Gramsahay\obj\Debug\Gramsahay.pdb
